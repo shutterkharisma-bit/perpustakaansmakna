@@ -1,0 +1,17 @@
+.env
+.env.local
+.env.*.local
+node_modules/
+vendor/
+*.log
+*.tmp
+uploads/*
+!uploads/.gitkeep
+logs/*
+!logs/.gitkeep
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
